@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Western Cape",
+    "code": "WC"
+  },
+  {
+    "id": 2,
+    "name": "Gauteng",
+    "code": "GP"
+  },
+  {
+    "id": 3,
+    "name": "KwaZulu-Natal",
+    "code": "KZN"
+  },
+  {
+    "id": 4,
+    "name": "Mpumalanga",
+    "code": "MP"
+  },
+  {
+    "id": 5,
+    "name": "Free State",
+    "code": "FS"
+  },
+  {
+    "id": 6,
+    "name": "Eastern Cape",
+    "code": "EC"
+  },
+  {
+    "id": 7,
+    "name": "Limpopo",
+    "code": "LP"
+  },
+  {
+    "id": 8,
+    "name": "North West",
+    "code": "NW"
+  },
+  {
+    "id": 9,
+    "name": "Northern Cape",
+    "code": "NC"
+  }
+]

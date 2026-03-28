@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Bo-Kaap",
+    "description": "Colorful houses and cobblestone streets in the heart of Cape Town. Rich in Malay culture and history. Don't forget to try the koeksisters!",
+    "province": "Western Cape",
+    "category": "Cultural",
+    "image": "bokaap.jpg",
+    "latitude": -33.9211,
+    "longitude": 18.4151,
+    "budgetBreakdown": {
+      "transport": 150,
+      "food": 200,
+      "entry": 0,
+      "misc": 100
+    }
+  },
+  {
+    "id": 2,
+    "name": "Gold Reef City",
+    "description": "Theme park and museum built around an old gold mine. Experience Joburg's mining history, ride the Anaconda rollercoaster, and try your luck panning for gold!",
+    "province": "Gauteng",
+    "category": "Entertainment",
+    "image": "goldreef.jpg",
+    "latitude": -26.2376,
+    "longitude": 28.0124,
+    "budgetBreakdown": {
+      "transport": 100,
+      "food": 250,
+      "entry": 320,
+      "misc": 150
+    }
+  },
+  {
+    "id": 3,
+    "name": "Blyde River Canyon",
+    "description": "One of the largest canyons in the world. Stunning views, hiking trails, God's Window viewpoint, and the Three Rondavels. Pure Mpumalanga magic!",
+    "province": "Mpumalanga",
+    "category": "Nature",
+    "image": "blyde.jpg",
+    "latitude": -24.6522,
+    "longitude": 30.8125,
+    "budgetBreakdown": {
+      "transport": 400,
+      "food": 300,
+      "entry": 100,
+      "misc": 200
+    }
+  },
+  {
+    "id": 4,
+    "name": "Muizenberg Beach",
+    "description": "Famous for colorful beach huts and gentle waves. Perfect for surfing lessons and sunset walks. The vibe is immaculate!",
+    "province": "Western Cape",
+    "category": "Beach",
+    "image": "muizenberg.jpg",
+    "latitude": -34.1064,
+    "longitude": 18.4682,
+    "budgetBreakdown": {
+      "transport": 120,
+      "food": 180,
+      "entry": 0,
+      "misc": 80
+    }
+  },
+  {
+    "id": 5,
+    "name": "Walter Sisulu Botanical Garden",
+    "description": "Beautiful gardens with a waterfall, hiking trails, and Verreaux's eagles nesting on the cliffs. Perfect picnic spot in Joburg!",
+    "province": "Gauteng",
+    "category": "Nature",
+    "image": "walter.jpg",
+    "latitude": -26.0872,
+    "longitude": 27.8414,
+    "budgetBreakdown": {
+      "transport": 80,
+      "food": 150,
+      "entry": 75,
+      "misc": 50
+    }
+  },
+  {
+    "id": 6,
+    "name": "Stellenbosch Wine Farms",
+    "description": "Historic wine estates with mountain views. Do a wine tasting, eat at a fancy restaurant, or just enjoy the scenery.",
+    "province": "Western Cape",
+    "category": "Food & Drink",
+    "image": "stellenbosch.jpg",
+    "latitude": -33.9321,
+    "longitude": 18.8602,
+    "budgetBreakdown": {
+      "transport": 200,
+      "food": 400,
+      "entry": 150,
+      "misc": 100
+    }
+  },
+  {
+    "id": 7,
+    "name": "Drakensberg Amphitheatre",
+    "description": "Majestic mountain range with hiking trails, San rock art, and the Tugela Falls - the world's second-highest waterfall!",
+    "province": "KwaZulu-Natal",
+    "category": "Nature",
+    "image": "drakensberg.jpg",
+    "latitude": -28.7571,
+    "longitude": 28.8932,
+    "budgetBreakdown": {
+      "transport": 350,
+      "food": 250,
+      "entry": 120,
+      "misc": 150
+    }
+  },
+  {
+    "id": 8,
+    "name": "Victoria Yards",
+    "description": "Urban creative hub in Joburg. Artists studios, urban gardens, restaurants, and a Saturday market. Very vibey!",
+    "province": "Gauteng",
+    "category": "Arts & Culture",
+    "image": "victoria.jpg",
+    "latitude": -26.1929,
+    "longitude": 28.0573,
+    "budgetBreakdown": {
+      "transport": 80,
+      "food": 200,
+      "entry": 0,
+      "misc": 300
+    }
+  },
+  {
+    "id": 9,
+    "name": "Clarens Village",
+    "description": "Charming Free State town surrounded by mountains. Art galleries, breweries, and adventure activities. The perfect weekend getaway!",
+    "province": "Free State",
+    "category": "Town",
+    "image": "clarens.jpg",
+    "latitude": -28.5167,
+    "longitude": 28.4167,
+    "budgetBreakdown": {
+      "transport": 300,
+      "food": 300,
+      "entry": 0,
+      "misc": 400
+    }
+  },
+  {
+    "id": 10,
+    "name": "uShaka Marine World",
+    "description": "World-class aquarium and water park in Durban. See sharks, ride slides, or chill at the beach right next door!",
+    "province": "KwaZulu-Natal",
+    "category": "Entertainment",
+    "image": "ushaka.jpg",
+    "latitude": -29.8683,
+    "longitude": 31.0498,
+    "budgetBreakdown": {
+      "transport": 150,
+      "food": 250,
+      "entry": 280,
+      "misc": 100
+    }
+  }
+]

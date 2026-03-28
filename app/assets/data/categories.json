@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Cultural",
+    "icon": "museum",
+    "color": "#FF6B6B"
+  },
+  {
+    "id": 2,
+    "name": "Entertainment",
+    "icon": "theme_park",
+    "color": "#4ECDC4"
+  },
+  {
+    "id": 3,
+    "name": "Nature",
+    "icon": "forest",
+    "color": "#45B7D1"
+  },
+  {
+    "id": 4,
+    "name": "Beach",
+    "icon": "beach",
+    "color": "#96CEB4"
+  },
+  {
+    "id": 5,
+    "name": "Food & Drink",
+    "icon": "restaurant",
+    "color": "#FFE194"
+  },
+  {
+    "id": 6,
+    "name": "Arts & Culture",
+    "icon": "palette",
+    "color": "#D4A5A5"
+  },
+  {
+    "id": 7,
+    "name": "Town",
+    "icon": "town",
+    "color": "#9B59B6"
+  }
+]
